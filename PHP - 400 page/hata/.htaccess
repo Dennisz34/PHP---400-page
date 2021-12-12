@@ -1,0 +1,4 @@
+ErrorDocument	401	http://localhost/hata/hata.php
+ErrorDocument	403	http://localhost/hata/hata.php
+ErrorDocument	404	http://localhost/hata/hata.php
+ErrorDocument	500	http://localhost/hata/hata.php
