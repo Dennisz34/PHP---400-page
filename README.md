@@ -1,4 +1,4 @@
-
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif" align="right" width="400" height="250">
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
 I'm Deniz, i'm working on web and artificial intelligence. I am sharing my projects in here. I usually using Python programming language for Artificial intelligence. 
@@ -10,9 +10,20 @@ I'm Deniz, i'm working on web and artificial intelligence. I am sharing my proje
 <a href="https://www.linkedin.com/in/noldor-feanor-b9b705228/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@noldor-feanor-blue?style=flat&logo=linkedin"></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+### Tech I use
+
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="50" height="50" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40" height="40" />
+
+<br /><br />
+
+
+<img src="https://media.giphy.com/media/fV0oSDsZ4UgdW/source.gif" align="right" width="400" height="250">
+
 
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
@@ -21,3 +32,5 @@ I'm Deniz, i'm working on web and artificial intelligence. I am sharing my proje
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennisz34&layout=compact&theme=tokyonight" height="180">
 </p>
 
+
+<img src="https://media.giphy.com/media/fV0oSDsZ4UgdW/source.gif" align="right" width="400" height="250">
