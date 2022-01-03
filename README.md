@@ -24,7 +24,7 @@ I'm Deniz, i'm working on web and artificial intelligence. I am sharing my proje
 
 <img src="https://media.giphy.com/media/fV0oSDsZ4UgdW/source.gif" align="right" width="400" height="250">
 
-
+<br /><br /><br /><br />
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
