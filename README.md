@@ -2,9 +2,9 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-### I'm Deniz, i'm working on web and artificial intelligence. 
-### I am sharing my projects in here. 
-### I usually using Python programming language for Artificial intelligence. 
+## I'm Deniz, i'm working on web and artificial intelligence. 
+## I am sharing my projects in here. 
+## I usually using Python programming language for Artificial intelligence. 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 <img src="https://media.giphy.com/media/fV0oSDsZ4UgdW/source.gif" align="right" width="400" height="250">
 
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
