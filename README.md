@@ -1,10 +1,10 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif" align="right" width="400" height="250">
 
-### Hi, Welcome To My Github Profile 👋 👋 👋
+## Hi, Welcome To My Github Profile 👋 👋 👋
 
-## I'm Deniz, i'm working on web and artificial intelligence. 
-## I am sharing my projects in here. 
-## I usually using Python programming language for Artificial intelligence. 
+### I'm Deniz, i'm working on web and artificial intelligence. 
+### I am sharing my projects in here. 
+### I usually using Python programming language for Artificial intelligence. 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
