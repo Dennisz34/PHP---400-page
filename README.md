@@ -31,6 +31,3 @@ I'm Deniz, i'm working on web and artificial intelligence. I am sharing my proje
   <img src="https://github-readme-stats.vercel.app/api?username=Dennisz34&show_icons=true&theme=tokyonight" width="450" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennisz34&layout=compact&theme=tokyonight" height="180">
 </p>
-
-
-<img src="https://media.giphy.com/media/fV0oSDsZ4UgdW/source.gif" align="right" width="400" height="250">
